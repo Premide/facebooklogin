@@ -81,5 +81,8 @@ a{
         text-align: center;
         margin-top: 80px;
     }
+  form{
+    width:100%;
+  }
 
 }
