@@ -73,3 +73,13 @@ a{
     border: none;
     border-radius: 8px;
 }
+
+@media (max-width:500px){
+    .main{
+        display:block;
+        margin:150px auto; 
+        text-align: center;
+        margin-top: 80px;
+    }
+
+}
